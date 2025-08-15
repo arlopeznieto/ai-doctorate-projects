@@ -22,4 +22,4 @@ This is a showcase of projects from my doctorate in AI and Machine Learning (by 
 * Natural Language Processing
 * Business Statistics
 * Hypotheses testing
-* Artificial Neural Networks
+* Artificial Neural Networks (different optimizers, regularization, dropouts)
