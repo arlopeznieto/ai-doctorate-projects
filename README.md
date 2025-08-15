@@ -18,8 +18,8 @@ This is a showcase of projects from my doctorate in AI and Machine Learning (by 
 * Over sampling
 * Under sampling
 * Model evaluation
-* Artificial Neural Networks
 * Computer Vision
 * Natural Language Processing
 * Business Statistics
 * Hypotheses testing
+* Artificial Neural Networks
