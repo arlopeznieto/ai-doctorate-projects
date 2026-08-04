@@ -4,7 +4,7 @@ This is a showcase of projects from my doctorate in AI and Machine Learning (to 
 # Hello, I'm Rolando:
 * AI Doctorate (by 2027).
 * AI Engineer with certificates from MIT(x2), University of Texas & IBM (~600 hours combined).
-* 14y+ at a Fortune 500 in B2B Tech: for brands like  Pizza Hut, KFC, Papa John’s, Wendy’s and more, servicing a whole continent remotely and on-site (~23 business trips to 10 different countries) as Custom Software Developer, Software Consultant.
+* 14y+ at a Fortune 500 in B2B Tech: for brands like  Pizza Hut, KFC, Papa John’s, Wendy’s and more, servicing an entire continent remotely and on-site (~23 business trips to 10 different countries) as Custom Software Developer, Senior Software Consultant and Project Manager.
 * Our AI portfolio: Omni-channel conversational AI (call centers, drivethru, self-serve kiosks, whatsapp), live 180+ stores. and Custom Development in AI and IoT.
 
 # Some techniques included in this repository are:
